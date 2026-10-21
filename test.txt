@@ -1,5 +1,5 @@
 
-aaa(main)에서 작업
+aaa
 
-apple(apple)에서 작업
+apple
 
